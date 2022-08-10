@@ -74,4 +74,7 @@ dependencies {
     // For local unit tests
     testImplementation "com.google.dagger:hilt-android-testing:$hilt_version"
     testAnnotationProcessor "com.google.dagger:hilt-compiler:$hilt_version"
+
+    /* KTX for ViewModel */
+    implementation "androidx.activity:activity-ktx:1.5.1"
 }
