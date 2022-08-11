@@ -1,4 +1,4 @@
-package com.chinkiandfamily.getdatafrominternet
+package com.chinkiandfamily.getdatafrominternet.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
